@@ -1,4 +1,4 @@
-### Hi there 🎸
+### Hi there 👋
 
 - 🔭 I’m currently working on Java, C and C++
 - 🌱 I’m currently learning JavaScript, Ruby on Rails and Python
