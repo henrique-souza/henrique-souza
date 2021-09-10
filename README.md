@@ -1,3 +1,5 @@
+![Mega Man Gif 3](https://user-images.githubusercontent.com/72718207/132867952-e6ca5c13-3c23-4d5b-9804-be7212bb5390.gif)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Java, C and C++
