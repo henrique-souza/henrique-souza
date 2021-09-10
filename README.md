@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Java, C and C++
-- 🌱 I’m currently learning JavaScript, Ruby on Rails and Python
+- 🌱 I’m currently learning PASCAL, JavaScript, Ruby on Rails and Python
 
 <!--
 Here are some ideas to get you started:
