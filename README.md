@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  [](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=html&layout=compact&theme=dark)
 -->   
-<a href="https://github.com/henrique-souza/github-readme-stats">
-  <h1 align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell&theme=ayu-mirage" />
-</a>
-  
-<a href="https://github.com/henrique-souza/github-readme-stats">
-  <h1 align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" />
-</a>
+<!--- | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | --->
+  <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell&theme=ayu-mirage&layout=compact" /> </a>
+| --- | --- |
