@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Java, C and C++
-- 🌱 I’m currently learning Python, SQL, SQLite, database, datastructure, HTML, CSS, JavasCript, React, Node, Vue
+- 🌱 I’m currently learning Python, SQL, SQLite, database, datastructure, HTML, CSS, JavaScript
 - 😄 Pronouns: He/Him
 
 <!--
