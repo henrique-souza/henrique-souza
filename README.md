@@ -5,12 +5,12 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java, C and C++
-- 🌱 I’m currently learning Python, SQL, SQLite, database, datastructure, HTML, CSS, JavaScript
+- 🔭 I’m currently working on Java, C and Python
+- 🌱 I’m currently learning SQL, SQLite, database, datastructure, HTML, CSS, JavaScript, Ruby on Rails
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: <a target="_blank" href="https://wa.me/+5521966647190"> <img margin="auto" alt="WhatsApp" title="Send me a message!" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/1200px-WhatsApp_logo.svg.png" />
+- 📫 How to reach me:  <a target="_blank" href="https://wa.me/+5521966647190"> <img margin="auto" alt="WhatsApp" title="Send me a message!" width="100" src="https://user-images.githubusercontent.com/72718207/133368975-f14f8183-c2f3-46ee-811f-a4ee05e985bd.png" />
 </a>
-
+  
 <!--
 Here are some ideas to get you started:
 
