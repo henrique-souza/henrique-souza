@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on Java, C and C++
 - 🌱 I’m currently learning Python, SQL, SQLite, database, datastructure, HTML, CSS, JavaScript
 - 😄 Pronouns: He/Him
+- 📫 How to reach me: <a target="_blank" href="https://wa.me/+5521966647190"> <img margin="auto" alt="WhatsApp" title="Send me a message!" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/1200px-WhatsApp_logo.svg.png" />
+</a>
 
 <!--
 Here are some ideas to get you started:
@@ -17,7 +19,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a target="_blank" href="https://wa.me/+5521966647190"> <img align="left" alt="WhatsApp" title="Send me a message!" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 - ⚡ Fun fact: ...
  [](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=html&layout=compact&theme=dark)
@@ -25,3 +28,6 @@ Here are some ideas to get you started:
 <!--- | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | --->
   <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,c%2B%2B,css&theme=ayu-mirage&layout=compact" /> </a>
 | --- | --- |
+
+<a target="_blank" href="https://wa.me/+5521966647190"> <img align="left" alt="WhatsApp" title="Send me a message!" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
