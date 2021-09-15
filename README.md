@@ -28,6 +28,3 @@ Here are some ideas to get you started:
 <!--- | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | --->
   <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,c%2B%2B,css&theme=ayu-mirage&layout=compact" /> </a>
 | --- | --- |
-
-<a target="_blank" href="https://wa.me/+5521966647190"> <img align="left" alt="WhatsApp" title="Send me a message!" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
