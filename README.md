@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Java, C
 - 🌱 I’m currently learning Python, Ruby on Rails, JavaScript, SQLite, database, datastructure and Functional Programming
 - 😄 Pronouns: He/Him
-- 📫 How to reach me:  <a target="_blank" href="https://wa.me/+5521966647190"> <img margin="auto" alt="WhatsApp" title="Send me a message!" width="110" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+- 📫 How to reach me:  <a href="https://wa.me/+5521966647190" target="_blank"> <img margin="auto" alt="WhatsApp" title="Send me a message!" width="110" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
   
 <!--
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 --->
   
-  <a target="_blank" href="https://www.linkedin.com/in/riquehen/"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a target="_blank" href="https://www.linkedin.com/in/riquehen/"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,c%2B%2B,css,html&theme=ayu-mirage&layout=compact&langs_count=7" /> </a>
+  <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,c%2B%2B,css,html&theme=ayu-mirage&layout=compact&langs_count=7" /> </a>
 | --- | --- |
