@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  [](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=html&layout=compact&theme=dark)
 -->   
-<!--- | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | --->
-  <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,c%2B%2B,css,html&theme=ayu-mirage&layout=compact&langs_count=7" /> </a>
+<!--- BACKUP 16/09/2021
+
+<a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://github.com/henrique-souza/github-readme-stats"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,c%2B%2B,css,html&theme=ayu-mirage&layout=compact&langs_count=7" /> </a>
+| --- | --- |
+
+--->
+  
+  <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,c%2B%2B,css,html&theme=ayu-mirage&layout=compact&langs_count=7" /> </a>
 | --- | --- |
