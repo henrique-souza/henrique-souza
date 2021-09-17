@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img width="100" height="100" alt="Running out of time" title="#Running out of time" src="https://user-images.githubusercontent.com/72718207/132867952-e6ca5c13-3c23-4d5b-9804-be7212bb5390.gif" />
 
@@ -32,5 +30,5 @@ Here are some ideas to get you started:
 
 --->
   
-  <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,css,html&theme=ayu-mirage&layout=compact&langs_count=7" /> </a>
+  <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell,css,html,C%2B%2B&theme=ayu-mirage&layout=compact&langs_count=7" /> </a>
 | --- | --- |
