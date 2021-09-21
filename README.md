@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Java, C
-- 🌱 I’m currently learning Python, Ruby and Ruby on Rails, JavaScript, SQL, SQLite, database, datastructure and Functional Programming
+- 🌱 I’m currently learning Python, Ruby, Ruby on Rails, JavaScript, SQL, SQLite, database, datastructure and Functional Programming
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:  <a href="https://wa.me/+5521966647190" target="_blank"> <img margin="auto" alt="WhatsApp" title="Send me a message!" width="110" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
