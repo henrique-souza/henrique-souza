@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 --->
   
-  <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" img width="468.047" height="184.375" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" img width="468.047" height="184.375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell&theme=ayu-mirage&layout=compact&langs_count=8" /> </a>
+  <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=shell&theme=ayu-mirage&layout=compact&langs_count=8" /> </a>
 | --- | --- |
