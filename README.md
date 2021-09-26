@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🤓 [Microsoft Learn profile](https://docs.microsoft.com/pt-br/users/henrique-souza-8745/)
+- 🤓 Please, feel free to visit my [Microsoft Learn profile](https://docs.microsoft.com/pt-br/users/henrique-souza-8745/)
 - 🔭 I’m currently working on Java, C
 - 🌱 I’m currently learning Python, TypeScript, Ruby, Ruby on Rails, JavaScript, SQL, SQLite, database and datastructure
 - 😄 Pronouns: He/Him
