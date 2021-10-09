@@ -5,7 +5,7 @@
 
 - 🤓 Please, feel free to visit my [Microsoft Learn profile](https://docs.microsoft.com/pt-br/users/henrique-souza-8745/)
 - 🔭 I’m currently working on Java, C
-- 🌱 I’m currently learning Python, TypeScript, Ruby, Ruby on Rails, JavaScript, SQLite, database and datastructure
+- 🌱 I’m currently learning Python, JavaScript, TypeScript, Ruby, Ruby on Rails, SQLite, database and datastructure
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: <a href="https://wa.me/+5521966647190" target="_blank"> <img alt="WhatsApp" title="Send me a message!" width="110" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
   
