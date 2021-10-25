@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <img width="100" height="100" alt="Running out of time" title="Running out of time" src="https://user-images.githubusercontent.com/72718207/132867952-e6ca5c13-3c23-4d5b-9804-be7212bb5390.gif" /> </a>
+  <a target="_blank" href="https://www.linkedin.com/in/riquehen/" > <img width="100" height="100" alt="Running out of time" title="Running out of time" src="https://user-images.githubusercontent.com/72718207/132867952-e6ca5c13-3c23-4d5b-9804-be7212bb5390.gif" /> </a>
 
 ### Hi there 👋
 
