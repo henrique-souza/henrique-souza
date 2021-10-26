@@ -10,10 +10,10 @@
 - 😄 Pronouns: He/Him
 
   
-<a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10" /> </a>
+<a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,c%2B%2B,css" /> </a>
 | --- | --- |
   
-<!-- &hide=shell,c%2B%2B,css,html
+<!-- ,css,html
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
