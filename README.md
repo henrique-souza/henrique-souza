@@ -3,7 +3,7 @@
 ### Coé 🤙
 
 - 📫 How to reach me: <a href="https://wa.me/+5521966647190" target="_blank"> <img alt="WhatsApp" title="Send me a message!" width="110" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-- 🤓 Please, feel free to visit my <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="_blank"> <img alt="Microsoft Learn" title="Me visita aí!" width="110" height="25" src="https://shields.io/badge/MS%20Learn%20Profile-blue?style=?style=for-the-badge&logo=data:cdn-icons-png.flaticon.com/512/906/906309.png" /> </a>
+- 🤓 Please, feel free to visit my <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="_blank"> <img alt="Microsoft Learn" title="Me visita aí!" width="115" height="25" src="https://shields.io/badge/MS%20Learn%20Profile-blue?logo=data:cdn-icons-png.flaticon.com/512/906/906309.png?style=flat-square&logo=appveyor" /> </a>
 - 🔭 Working on `Delphi`,  `C#`, `Java`, `C`, `Python`, `SQLServer`, `Oracle`
 - 🚀 Studying Languages & Technologies `JavaScript`, `TypeScript`, `Angular`, `LESS`, `Ruby`, `Flutter`, `Azure DevOps`, `Node.JS`, `Ruby on Rails`, `SQLite`
 - 😄 Pronouns: He/Him
