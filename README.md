@@ -1,4 +1,5 @@
-<img width="50" height="50" align="right" alt="Running out of time" title="Running out of time" src="https://i.pinimg.com/originals/2a/99/a8/2a99a878e17b7527ea1f72b7730c6be9.gif"/>
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/riquehen/"> <img width="80" height="80" alt="Running out of time" title="Running out of time" src="https://user-images.githubusercontent.com/72718207/132867952-e6ca5c13-3c23-4d5b-9804-be7212bb5390.gif"/> </a>
 
 ### Coé 🤙
 
