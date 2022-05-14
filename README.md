@@ -1,4 +1,8 @@
 ### Coé 🤙
+
+<!-- Imagem do Tyler -->
+<a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <img align="right" width="100" height="100" alt="Running out of time" title="Running out of time" src="https://media2.giphy.com/media/ieW08efOupErzmEnGb/giphy.gif?cid=790b761159f4062508ac166c054ba5e29b944e7876b8b0d1&rid=giphy.gif"> </a>
+
 <!-- Zap -->
 - 📫 How to reach me: <a href="https://wa.me/+5521966647190" target="_blank"> <img alt="WhatsApp" title="Send me a message!" width="110" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 <!-- MS learn --> 
@@ -11,11 +15,8 @@
   - **🛠️	Using these tools and technologies - _`Lunar Vim`_, _`ZSH`_, _`WSL 2`_, _`Arch Linux`_, _`Azure DevOps`_, _`Visual Studio Code`_, _`Appium Desktop`_, _`WinAppDriver`_, _`Visual Studio`_, _`Microsoft SQL Server Management Studio`_, _`Oracle SQL Developer`_, _`RAD Studio`_, _`PowerShell`_** 
 - 😄 Pronouns: He/Him
 
-<!-- Imagem do Tyler -->
-<a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="right"> <img align="center" width="100" height="100" alt="Running out of time" title="Running out of time" src="https://media2.giphy.com/media/ieW08efOupErzmEnGb/giphy.gif?cid=790b761159f4062508ac166c054ba5e29b944e7876b8b0d1&rid=giphy.gif" /> </a> </h1>
-
 <!-- Estatísticas, etc -->
-<a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake" /> </a>
+<a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake" /> </a>
 | --- | --- |
 
 <!-- 
