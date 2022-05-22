@@ -1,14 +1,15 @@
 ### Coé 🤙
 
-<!-- Imagem do Tyler -->
-<a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <img align="right" width="100" height="100" alt="Running out of time" title="Running out of time" src="https://media2.giphy.com/media/ieW08efOupErzmEnGb/giphy.gif?cid=790b761159f4062508ac166c054ba5e29b944e7876b8b0d1&rid=giphy.gif"> </a>
 
 <!-- Zap -->
-- 📫 How to reach me: <a href="https://wa.me/+5521966647190" target="_blank"> <img alt="WhatsApp" title="Send me a message!" width="110" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+- 📫 How to reach me: <a href="https://wa.me/+5521966647190" target="_blank"> <img alt="WhatsApp" title="Send me a message!" width="110" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+
 <!-- MS learn --> 
-- 🤓 Please, feel free to visit my <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="_blank"> <img alt="Microsoft Learn" title="Me visita aí!" width="120" height="25" src="https://img.shields.io/badge/MS%20Learn%20Profile-blue?style=?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAhFBMVEXz8/PzUyWBvAYFpvD/ugjz9fb19Pbz+fr39fr69vPy9foAofD/tgDzRQB9ugAAo/Df6dCv0Xjz2dPzTBfzl4PznImz04CAx/H60oHS5vJ5xPH60Hn16dIAnvDz7u3z4t7n7dzzNADzkXurz3BwtQDzvrLM36zf6/Os2PL336z07d/7z3RN8WfWAAABg0lEQVR4nO3cyVLCYBCFURwCkXlygDBFUBTf//3cSGIVf5WrDi7O9wJdp3p/Wy1JkvSrLLzqVDu8FHAzjW57JrZ34+hSH5yWg9jK187PrXx/GMZ2GF9+MZsObmKbzSvhZHgb25CQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCwUWE5i21QC/fB86Xp/dLt/DG4t/MGbf7+FNxkl9jZzTrR1TvCeXjJIWFJkv7uIbzqVDe8LAE8Lp+D+zgTu5/FS2zFKUFcrEex9ZaV8Ksf3Sol7N3FNqqFRf8+NkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQsJmhetebOtr75dmi+iO1anTKrrNJbDRsvCuDJQk6Z/1DSzvYqEfRCNJAAAAAElFTkSuQmCC&" /> </a>
+- 🤓 Please, feel free to visit my <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="_blank"> <img alt="Microsoft Learn" title="Me visita aí!" width="120" height="25" src="https://img.shields.io/badge/MS%20Learn%20Profile-blue?style=?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAhFBMVEXz8/PzUyWBvAYFpvD/ugjz9fb19Pbz+fr39fr69vPy9foAofD/tgDzRQB9ugAAo/Df6dCv0Xjz2dPzTBfzl4PznImz04CAx/H60oHS5vJ5xPH60Hn16dIAnvDz7u3z4t7n7dzzNADzkXurz3BwtQDzvrLM36zf6/Os2PL336z07d/7z3RN8WfWAAABg0lEQVR4nO3cyVLCYBCFURwCkXlygDBFUBTf//3cSGIVf5WrDi7O9wJdp3p/Wy1JkvSrLLzqVDu8FHAzjW57JrZ34+hSH5yWg9jK187PrXx/GMZ2GF9+MZsObmKbzSvhZHgb25CQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCwUWE5i21QC/fB86Xp/dLt/DG4t/MGbf7+FNxkl9jZzTrR1TvCeXjJIWFJkv7uIbzqVDe8LAE8Lp+D+zgTu5/FS2zFKUFcrEex9ZaV8Ksf3Sol7N3FNqqFRf8+NkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQsJmhetebOtr75dmi+iO1anTKrrNJbDRsvCuDJQk6Z/1DSzvYqEfRCNJAAAAAElFTkSuQmCC&"> </a>
+
 <!-- Working on -->
 - 🔭 Working on [***`Delphi`***](https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=),  [`C#`](https://github.com/henrique-souza/csharp_exercises), [`Java`](https://github.com/henrique-souza?tab=repositories&q=java&type=&language=java&sort=), `C`, `Python`, `SQLServer`, `Oracle`
+
 <!-- Studying -->
 - 🚀 Studying with languages - [***`Ruby and/on Rails`***](https://github.com/henrique-souza/ruby_and_rails_exercises), `JavaScript`, `TypeScript`, `Angular`, `LESS`,  `Flutter`, `Node.JS`, `SQLite`.
 
@@ -16,8 +17,13 @@
 - 😄 Pronouns: He/Him
 
 <!-- Estatísticas, etc -->
-<a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage" /> </a> | <a href="https://www.linkedin.com/in/riquehen/" target="_blank"> <h1 align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake" /> </a>
-| --- | --- |
+<img align="center" height="215" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake">
+
+
+<!-- Imagem do Tyler 
+<img align="center" height="100" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
+-->
+
 
 <!-- 
 - ⚡ Fun fact: ...
