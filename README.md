@@ -17,7 +17,7 @@
 - 😄 Pronouns: He/Him
 
 <!-- Estatísticas, etc -->
-<img align="center" height="215" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake">
+<img align="center" height="210" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake">
 
 
 <!-- Imagem do Tyler 
