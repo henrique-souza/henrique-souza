@@ -17,7 +17,7 @@
 
 <!-- Imagem -->
 <p align="right">
-  <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
+  <img height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
 </p>
 
 <!-- Estatísticas, etc -->
