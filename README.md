@@ -15,15 +15,15 @@
   - **🛠️	Using these tools and technologies - _`Lunar Vim`_, _`ZSH`_, _`WSL 2`_, _`Arch Linux`_, _`Azure DevOps`_, _`Visual Studio Code`_, _`Appium Desktop`_, _`WinAppDriver`_, _`Visual Studio`_, _`Microsoft SQL Server Management Studio`_, _`Oracle SQL Developer`_, _`RAD Studio`_, _`PowerShell`_** 
 - 😄 Pronouns: He/Him
 
+<!-- Estatísticas, etc -->
+<img align="left" height="215" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake,C%2B%2B,less"/>
+|--|--|
+
 <!-- Imagem -->
 <p align="right">
   <img height="150" 
        src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif">
 </p>
-
-<!-- Estatísticas, etc -->
-<img align="left" height="215" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake,C%2B%2B,less"/>
-|--|--|
 
 
 <!-- 
