@@ -23,12 +23,6 @@
 <img align="left" height="215" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake,C%2B%2B,less"/>
 |--|--|
 
-
-<!-- <p align="left"> -->
-
-<!-- </p> -->
-
-
 <!-- 
 - ⚡ Fun fact: ...
  [](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=html&layout=compact&theme=dark)
