@@ -20,7 +20,7 @@
 - 😄 Pronouns: He/Him
 
 <!-- Estatísticas, etc -->
-<img align="left" height="215" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=8&hide=shell,HTML,CSS,cmake,C%2B%2B,less"/>
+<img align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=8&hide=shell,HTML,CSS,cmake,C%2B%2B,less"/>
 |--|--|
 
 <!-- Backup --
