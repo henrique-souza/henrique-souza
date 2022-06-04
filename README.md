@@ -14,9 +14,8 @@
 <!-- Studying -->
 - 🚀 Studying with languages - [***`Ruby and/on Rails`***](https://github.com/henrique-souza/ruby_and_rails_exercises), `JavaScript`, `TypeScript`, `Node.JS`.
 
-<!-- `Angular`, `LESS`,  `Flutter`, , `SQLite`. -->
-
-  - **🛠️	Using these tools and technologies - _`Lunar Vim`_, _`ZSH`_, _`WSL 2`_, _`Arch Linux`_, _`Azure DevOps`_, _`Visual Studio Code`_, _`Appium Desktop`_, _`WinAppDriver`_, _`Visual Studio`_, _`Microsoft SQL Server Management Studio`_, _`Oracle SQL Developer`_, _`RAD Studio`_, _`PowerShell`_** 
+  - **🛠️	Using these tools and technologies - _`Lunar Vim`_, _`ZSH`_, _`WSL 2`_, _`Arch Linux`_, _`Azure DevOps`_, _`Visual Studio Code`_, 
+  _`Appium`_, _`WinAppDriver`_, _`Visual Studio`_, _`Microsoft SQL Server Management Studio`_, _`Oracle SQL Developer`_, _`RAD Studio`_, _`PowerShell`_** 
 - 😄 Pronouns: He/Him
 
 <!-- Estatísticas, etc -->
