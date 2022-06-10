@@ -27,8 +27,8 @@ Zap
 <h3 align="center">Always studying and learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-souza&label=Profile%20views&color=0e75b6&style=flat" alt="henrique-souza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrique-souza" alt="henrique-souza" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrique-souza" alt="henrique-souza" /></a> </p> -->
 
 - 🔭 I’m currently working on [TOTVS Hospitality - BackOffice](https://www.totvs.com/hospitalidade/produtos/) as [**Back-end developer Intern**](https://www.linkedin.com/in/riquehen)
 
@@ -60,8 +60,8 @@ Zap
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&show_icons=true&theme=ayu-mirage&locale=en" alt="henrique-souza" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique-souza&show_icons=true&theme=ayu-mirage&locale=en&layout=compact&langs_count=8&hide=HTML,cmake" alt="henrique-souza" />
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-souza&theme=dark" alt="henrique-souza" /> </p>
-
+<!--<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-souza&theme=dark" alt="henrique-souza" /> </p>
+-->
 
 <!-- Backup
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake,C%2B%2B,less,typescript,dart,swift,kotlin,objective-c"/>
