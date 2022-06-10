@@ -66,8 +66,3 @@ Zap
 <!-- Backup
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake,C%2B%2B,less,typescript,dart,swift,kotlin,objective-c"/>
 -->
-
-<!-- 
-- ⚡ Fun fact: ...
- [](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&hide=html&layout=compact&theme=dark)
--->   
