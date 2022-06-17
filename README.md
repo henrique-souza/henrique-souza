@@ -47,14 +47,21 @@
 -->
 - ⚡ Fun fact **I like being ranged in games**
 
-<h3 align="left"> 💬 Connect with me:</h3>
+<h3 align="left"> 💬 Know about and connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/riquehen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquehen" height="30" width="40" /></a>
-<a href="https://pt.stackoverflow.com/users/291660/henrique-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="291660" height="30" width="40" /></a>
-<a href="https://fb.com/riquehe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riquehe" height="30" width="40" /></a>
-<a href="https://instagram.com/rique.hen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rique.hen" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/riquehen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquehen" height="30" width="40" /></a>
+  <a href="https://pt.stackoverflow.com/users/291660/henrique-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="291660" height="30" width="40" /></a>
+  <a href="https://fb.com/riquehe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riquehe" height="30" width="40" /></a>
+  <a href="https://instagram.com/rique.hen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rique.hen" height="30" width="40" />
+  </a>
+  <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
+  </a>
 </p>
-<br /> <br />
+
+<!-- <br /> <br /> -->
+
 <h3 align="left"> 📄 Languages</h3> 
 <!-- Linguagens primeiro -->
 <p align="left"> 
@@ -70,8 +77,15 @@
 
 <h3 align="left"> 🛠️ Tools</h3> 
   <!-- Ferramentas e Frameworks depois --> 
-<p> <!-- Selenium --> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium framework" width="45" height="45"/> </a>
-<!-- Azure --> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="Azure DevOps" width="40" height="40"/> </a> 
+<p> 
+  <!-- Selenium --> 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium framework" width="45" height="45"/>
+  </a>
+  <!-- Azure --> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="Azure DevOps" width="40" height="40"/>
+  </a> 
   <!-- Git --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="45" height="45"/> </a> 
   <!-- Flutter --> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter framework" width="45" height="45"/> </a> 
   <!-- MSSQL --> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72718207/173164942-3c9de351-410a-4f26-9df6-800ab7469157.svg" alt="mssql" title="SQL Server" width="45" height="45"/> </a> 
@@ -80,7 +94,8 @@
   <!-- Arch Linux --> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JotaRandom/archlinux-artwork/blob/master/icons/archlinux-icon-crystal-128.svg" alt="linux" title="Arch Linux" width="45" height="45"/> </a> 
   <!-- .NET --> <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" title=".NET framework" width="45" height="45"/> </a> 
   <!-- Rails --> <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer"> <img src="https://www.spaceo.ca/wp-content/uploads/2020/12/startup_log.svg" alt="rails" title="Rails framework" width="45" height="45"/> </a>
-<!-- Atlassian Jira --> <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg" alt="Atlassian Jira" title="Atlassian Jira" width="45" height="45"/> </a></p>
+<!-- Atlassian Jira --> <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg" alt="Atlassian Jira" title="Atlassian Jira" width="45" height="45"/> </a>
+</p>
 
 <!-- Estatísticas, etc --> 
 <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=8&hide=HTML,cmake,C%2B%2B"/>
