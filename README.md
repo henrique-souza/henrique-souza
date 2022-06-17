@@ -28,27 +28,31 @@
 -->
 <h3 align="left"> 💬 Know about and connect with me:</h3>
 <p>
-  <!-- Linkedin --><a href="https://linkedin.com/in/riquehen" target="blank">
+  <!-- Linkedin -->
+  <a href="https://linkedin.com/in/riquehen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquehen" height="30" width="40"/>
   </a>
-  <!-- StackOverflow --><a href="https://pt.stackoverflow.com/users/291660/henrique-souza" target="blank">
+  <!-- StackOverflow -->
+  <a href="https://pt.stackoverflow.com/users/291660/henrique-souza" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="291660" height="30" width="40"/>
   </a>
-  <!-- Facebook --><a href="https://fb.com/riquehe" target="blank">
+  <!-- Facebook -->
+  <a href="https://fb.com/riquehe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riquehe" height="30" width="40"/>
   </a>
-  <!-- Instagram --><a href="https://instagram.com/rique.hen" target="blank">
+  <!-- Instagram -->
+  <a href="https://instagram.com/rique.hen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rique.hen" height="30" width="40" />
   </a>
-  <!-- MS Learn --><a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
+  <!-- MS Learn -->
+  <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
   </a>
 </p>
 
 <!-- <br /> <br /> -->
 
-<h3 align="left"> 📄 Languages</h3> 
-<!-- Linguagens primeiro -->
+<h3 align="left"> 📄 Languages</h3> <!-- Linguagens primeiro -->
 <p> 
   <!-- Delphi -->
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=" target="_blank" rel="noreferrer"> 
