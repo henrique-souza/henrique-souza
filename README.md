@@ -4,6 +4,8 @@
 ![icons8-microsoft-sql-server-480](https://user-images.githubusercontent.com/72718207/173164942-3c9de351-410a-4f26-9df6-800ab7469157.svg)
 ![download-icon-typescript+plain-1324760574122087083_0](https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg)
 ![atlassian_jira_logo_icon_170511](https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg)
+![elixir_lang_logo_icon_169207](https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg)
+
 --> 
 <h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
 <h3 align="center">Always studying and learning.</h3>
@@ -89,6 +91,10 @@
   <!-- Ruby --> 
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" title="Ruby" width="45" height="45"/> 
+  </a> 
+  <!-- Elixir 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg" alt="Elixir" title="Elixir" width="45" height="45"/> --> 
   </a> 
 </p>
 
