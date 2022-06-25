@@ -92,9 +92,9 @@
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" title="Ruby" width="45" height="45"/> 
   </a> 
-  <!-- Elixir 
+  <!-- Elixir -->
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg" alt="Elixir" title="Elixir" width="45" height="45"/> --> 
+    <img src="https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg" alt="Elixir" title="Elixir" width="45" height="45"/>  
   </a> 
 </p>
 
@@ -147,7 +147,7 @@
 </p>
 
 <!-- Estatísticas, etc --> 
-<img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=8&hide=HTML,cmake,C%2B%2B"/>
+<img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,cmake,C%2B%2B,dart,shell,less"/>
 |--|--|
 
 <!--<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-souza&theme=dark" alt="henrique-souza" /> </p>
