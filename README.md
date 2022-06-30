@@ -5,6 +5,7 @@
 ![download-icon-typescript+plain-1324760574122087083_0](https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg)
 ![atlassian_jira_logo_icon_170511](https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg)
 ![elixir_lang_logo_icon_169207](https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg)
+![rubymine-seeklogo com](https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg)
 
 --> 
 <h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
@@ -139,6 +140,10 @@
   <!-- Rails -->
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer">
     <img src="https://www.spaceo.ca/wp-content/uploads/2020/12/startup_log.svg" alt="rails" title="Rails framework" width="45" height="45"/>
+  </a>
+  <!-- RubyMine -->
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg" alt="RubyMine" title="RubyMine IDE" width="45" height="45"/>
   </a>
   <!-- Atlassian Jira --> 
   <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
