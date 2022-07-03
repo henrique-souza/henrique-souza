@@ -26,9 +26,9 @@
 - 📫 How to reach me **h.s.s_henrique@hotmail.com**
 <!--
 - 📄 Know about my experiences: [Linkedin resume](https://www.linkedin.com/in/riquehen/overlay/1635480845576/single-media-viewer/)
-
-- ⚡ Fun fact **I like being ranged in games**
 -->
+- ⚡ Fun fact **I like specifically and just Dark+(+) theme in all my tools**
+
 <h3 align="left"> 💬 Know about and connect with me:</h3>
 <p>
   <!-- Linkedin -->
