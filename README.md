@@ -52,6 +52,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
   </a>
 </p>
+<!-- Go Rails https://gorails.com/users/64010 -->
 
 <!-- <br /> <br /> -->
 
