@@ -58,42 +58,42 @@
 
 <h3 align="left"> 📄 Languages</h3> <!-- Linguagens primeiro -->
 <p> 
+  <!-- C --> 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="45" height="45"/>
+  </a>
   <!-- Delphi -->
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" alt="delphi" title="Delphi" width="45" height="45"/> 
   </a>
-  <!-- C --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="45" height="45"/>
-  </a> 
+    <!-- Java --> 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="45" height="45"/> 
+  </a>
+   <!-- Python --> 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="45" height="45"/> 
+  </a>
   <!-- C# --> 
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="45" height="45"/> 
-  </a> 
-  <!-- Dart --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="45" height="45"/> 
-  </a> 
-  <!-- Java --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="45" height="45"/> 
-  </a> 
-  <!-- Typescript --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg" alt="typescript" title="Typescript" width="45" height="45"/> 
-  </a> 
-  <!-- JavaScript --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="45" height="45"/> 
-  </a> 
-  <!-- Python --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="45" height="45"/> 
-  </a> 
+  </a>
   <!-- Ruby --> 
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" title="Ruby" width="45" height="45"/> 
-  </a> 
+  </a>
+  <!-- JavaScript --> 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="45" height="45"/> 
+  </a>
+  <!-- Typescript --> 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg" alt="typescript" title="Typescript" width="45" height="45"/> 
+  </a>
+  <!-- Dart --> 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="45" height="45"/> 
+  </a>
   <!-- Elixir -->
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=elixir&sort=" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg" alt="Elixir" title="Elixir" width="45" height="45"/>  
