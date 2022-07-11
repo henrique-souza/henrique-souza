@@ -24,9 +24,9 @@
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
 
 - 📫 How to reach me **h.s.s_henrique@hotmail.com**
-<!--
-- 📄 Know about my experiences: [Linkedin resume](https://www.linkedin.com/in/riquehen/overlay/1635480845576/single-media-viewer/)
--->
+
+- 📄 Know about my experiences: [Curriculum Vitae](https://docs.google.com/document/u/1/d/e/2PACX-1vRVFkPbWUUCnxEyF5xntDO7sJJkbkbS5SUaVaLPixDWGT9d-stoni8xqKkd0rBf5yEx3GGWQro24HST/pub)
+
 - ⚡ Fun fact **I like specifically and just Dark+(+) theme in all my tools**
 
 <h3 align="left"> 💬 Know about and connect with me:</h3>
