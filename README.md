@@ -150,6 +150,10 @@
   <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg" alt="Atlassian Jira" title="Atlassian Jira" width="45" height="45"/> 
   </a>
+  <!-- UML 2.0 -->
+  <a href="https://github.com/henrique-souza/uml_exercises" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML 2.0" title="UML" width="45" height="45"/> 
+  </a>
 </p>
 
 <!-- Estatísticas, etc --> 
