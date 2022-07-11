@@ -57,9 +57,6 @@
 <!-- <br /> <br /> -->
 
 <h3 align="left"> 📄 Languages</h3>
-
-> **More** knowledge ↔️	**Less** knowledge
-
 <p> 
   <!-- C --> 
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer"> 
