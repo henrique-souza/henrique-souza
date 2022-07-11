@@ -5,9 +5,9 @@
 ![download-icon-typescript+plain-1324760574122087083_0](https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg)
 ![atlassian_jira_logo_icon_170511](https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg)
 ![elixir_lang_logo_icon_169207](https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg)
-![rubymine-seeklogo com](https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg)
+![rubymine-seeklogo com](https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg) 
+-->
 
---> 
 <h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
 <h3 align="center">Always studying and learning.</h3>
 
@@ -56,7 +56,10 @@
 
 <!-- <br /> <br /> -->
 
-<h3 align="left"> 📄 Languages</h3> <!-- Linguagens primeiro -->
+<h3 align="left"> 📄 Languages</h3>
+
+> **More** knowledge ↔️	**Less** knowledge
+
 <p> 
   <!-- C --> 
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer"> 
@@ -156,16 +159,18 @@
   </a>
 </p>
 
-<!-- Estatísticas, etc --> 
-<img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,cmake,C%2B%2B,shell,less"/>
-|--|--|
+<!-- Estatísticas, etc -->
+| <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,cmake,C%2B%2B,shell,less"/> |
+| --- | --- |
 
-<!--<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-souza&theme=dark" alt="henrique-souza" /> </p>
+<!--
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-souza&theme=dark" alt="henrique-souza" /> </p>
 -->
 
 <!-- Backup
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake,C%2B%2B,less,typescript,dart,swift,kotlin,objective-c"/>
 -->
+
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrique-souza&theme=dark_dimmed" alt="henrique-souza" /></a> </p>
 -->
