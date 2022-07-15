@@ -39,11 +39,11 @@
   <a href="https://pt.stackoverflow.com/users/291660/henrique-souza" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="291660" height="30" width="40"/>
   </a>
-  <!-- Facebook -->
+  <!-- Facebook
   <a href="https://fb.com/riquehe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riquehe" height="30" width="40"/>
   </a>
-  <!-- Instagram 
+   
   <a href="https://instagram.com/rique.hen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rique.hen" height="30" width="40" />
   </a> 
