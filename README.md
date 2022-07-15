@@ -43,10 +43,11 @@
   <a href="https://fb.com/riquehe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riquehe" height="30" width="40"/>
   </a>
-  <!-- Instagram -->
+  <!-- Instagram 
   <a href="https://instagram.com/rique.hen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rique.hen" height="30" width="40" />
-  </a>
+  </a> 
+  -->
   <!-- MS Learn -->
   <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
