@@ -25,7 +25,8 @@
 
 - 📫 How to reach me **h.s.s_henrique@hotmail.com**
 
-- 📄 Know about my experiences: [Curriculum Vitae](https://docs.google.com/document/u/1/d/e/2PACX-1vRVFkPbWUUCnxEyF5xntDO7sJJkbkbS5SUaVaLPixDWGT9d-stoni8xqKkd0rBf5yEx3GGWQro24HST/pub)
+<!-- Linkedin 
+- 📄 Know about my experiences: [Curriculum Vitae](https://docs.google.com/document/u/1/d/e/2PACX-1vRVFkPbWUUCnxEyF5xntDO7sJJkbkbS5SUaVaLPixDWGT9d-stoni8xqKkd0rBf5yEx3GGWQro24HST/pub) -->
 
 - ⚡ Fun fact **I like specifically and just Dark+(+) theme in all my tools**
 
