@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-souza&label=Profile%20views&color=yellow&style=flat" alt="henrique-souza" /> </p>
 -->
 
-- 🔧 I’m currently working on [TOTVS Hospitality - BackOffice](https://www.totvs.com/hospitalidade/produtos/) as [**Back-end developer Intern**](https://www.linkedin.com/in/riquehen) with [Delphi 10.2](https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=)
+- 🔧 I’m currently working on [TOTVS](https://www.totvs.com) as [**Back-end developer Intern**](https://www.linkedin.com/in/riquehen) with [Delphi 10.2](https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=)
 
 - 📚 I’m currently learning **Ruby on Rails** and **Delphi**
 
