@@ -8,11 +8,9 @@
 ![rubymine-seeklogo com](https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg) 
 -->
 
+<!-- 
 <h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
 <h3 align="center">Always studying and learning.</h3>
-
-
-<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-souza&label=Profile%20views&color=yellow&style=flat" alt="henrique-souza" /> </p>
 -->
 
