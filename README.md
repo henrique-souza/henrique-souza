@@ -6,6 +6,8 @@
 ![atlassian_jira_logo_icon_170511](https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg)
 ![elixir_lang_logo_icon_169207](https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg)
 ![rubymine-seeklogo com](https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg) 
+![Instagram_logo_2016 svg](https://user-images.githubusercontent.com/72718207/189485189-354ad816-d36b-43f6-b5d1-f8bc9bf8e911.png)
+
 -->
 
 <!-- 
@@ -50,6 +52,10 @@
   <!-- MS Learn -->
   <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rique.hen/" target="_blank"> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@rique.hen" height="40" width="40" />
   </a>
 </p>
 <!-- Go Rails https://gorails.com/users/64010 -->
