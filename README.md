@@ -18,7 +18,7 @@
 
 - 🔧 I’m currently working on [TOTVS](https://www.totvs.com) as [**Back-end developer Intern**](https://www.linkedin.com/in/riquehen) with [Delphi 10.2](https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=)
 
-- 📚 I’m currently learning **Ruby on Rails** and **Delphi**
+- 📚 I’m currently learning **Ruby** and **Ruby on Rails**
 
 <!-- Imagem -->
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
