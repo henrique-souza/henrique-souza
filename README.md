@@ -5,12 +5,12 @@
 ![download-icon-typescript+plain-1324760574122087083_0](https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg)
 ![atlassian_jira_logo_icon_170511](https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg)
 ![elixir_lang_logo_icon_169207](https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg)
-![rubymine-seeklogo com](https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg) 
+![rubymine-seeklogo com](https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg)
 ![Instagram_logo_2016 svg](https://user-images.githubusercontent.com/72718207/189485189-354ad816-d36b-43f6-b5d1-f8bc9bf8e911.png)
 
 -->
 
-<!-- 
+<!--
 <h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
 <h3 align="center">Always studying and learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-souza&label=Profile%20views&color=yellow&style=flat" alt="henrique-souza" /> </p>
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **h.s.s_henrique@hotmail.com**
 
-<!-- Linkedin 
+<!-- Linkedin
 - 📄 Know about my experiences: [Curriculum Vitae](https://docs.google.com/document/u/1/d/e/2PACX-1vRVFkPbWUUCnxEyF5xntDO7sJJkbkbS5SUaVaLPixDWGT9d-stoni8xqKkd0rBf5yEx3GGWQro24HST/pub) -->
 
 - ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools**
@@ -40,110 +40,109 @@
   <a href="https://pt.stackoverflow.com/users/291660/henrique-souza" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="291660" height="30" width="40"/>
   </a>
-  <!-- Facebook
-  <a href="https://fb.com/riquehe" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riquehe" height="30" width="40"/>
-  </a>
-   
   <a href="https://instagram.com/rique.hen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rique.hen" height="30" width="40" />
-  </a> 
-  -->
+  </a>
   <!-- MS Learn -->
   <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/rique.hen/" target="_blank"> 
+  <a href="https://www.instagram.com/rique.hen/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@rique.hen" height="40" width="40" />
   </a>
 </p>
 <!-- Go Rails https://gorails.com/users/64010 -->
 
-<!-- <br /> <br /> -->
+  <!-- Facebook
+  <a href="https://fb.com/riquehe" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riquehe" height="30" width="40"/>
+  </a> -->
 
+<!-- <br /> <br /> -->
+<details>
 <h3 align="left"> 📄 Languages</h3>
-<p> 
-  <!-- C --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer"> 
+<p>
+  <!-- C -->
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="45" height="45"/>
   </a>
   <!-- Delphi -->
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" alt="delphi" title="Delphi" width="45" height="45"/> 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" alt="delphi" title="Delphi" width="45" height="45"/>
   </a>
-    <!-- Java --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="45" height="45"/> 
+    <!-- Java -->
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="45" height="45"/>
   </a>
-   <!-- Python --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="45" height="45"/> 
+   <!-- Python -->
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="45" height="45"/>
   </a>
-  <!-- C# --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="45" height="45"/> 
+  <!-- C# -->
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="45" height="45"/>
   </a>
-  <!-- Ruby --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" title="Ruby" width="45" height="45"/> 
+  <!-- Ruby -->
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" title="Ruby" width="45" height="45"/>
   </a>
-  <!-- JavaScript --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="45" height="45"/> 
+  <!-- JavaScript -->
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="45" height="45"/>
   </a>
-  <!-- Typescript --> 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg" alt="typescript" title="Typescript" width="45" height="45"/> 
+  <!-- Typescript -->
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg" alt="typescript" title="Typescript" width="45" height="45"/>
   </a>
-  <!-- Dart 
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="45" height="45"/> 
+  <!-- Dart
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="45" height="45"/>
   </a>
   <!-- Elixir
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=elixir&sort=" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=elixir&sort=" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg" alt="Elixir" title="Elixir" width="45" height="45"/> -->
-  </a> 
+  </a>
 </p>
 
-<h3 align="left"> 🛠️ Tools</h3> <!-- Ferramentas e Frameworks depois --> 
-<p> 
-  <!-- Selenium --> 
+<h3 align="left"> 🛠️ Tools</h3> <!-- Ferramentas e Frameworks depois -->
+<p>
+  <!-- Selenium -->
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium framework" width="45" height="45"/>
   </a>
-  <!-- Azure --> 
+  <!-- Azure -->
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="Azure DevOps" width="40" height="40"/>
-  </a> 
-  <!-- Git --> 
+  </a>
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="45" height="45"/> 
-  </a> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="45" height="45"/>
+  </a>
   <!-- Flutter
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter framework" width="45" height="45"/> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter framework" width="45" height="45"/>
   </a> -->
-  <!-- MSSQL --> 
+  <!-- MSSQL -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/72718207/173164942-3c9de351-410a-4f26-9df6-800ab7469157.svg" alt="mssql" title="SQL Server" width="45" height="45"/>
-  </a> 
+  </a>
   <!-- Node.JS -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72718207/173165044-03e11168-28ff-4fef-b6f3-bdcf6ef0e97d.svg" alt="nodejs" title="Node.JS" width="45" height="45"/> 
-  </a> 
-  <!-- Oracle --> 
+    <img src="https://user-images.githubusercontent.com/72718207/173165044-03e11168-28ff-4fef-b6f3-bdcf6ef0e97d.svg" alt="nodejs" title="Node.JS" width="45" height="45"/>
+  </a>
+  <!-- Oracle -->
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" title="Oracle SGBD" width="45" height="45"/>
-  </a> 
-  <!-- Arch Linux --> 
+  </a>
+  <!-- Arch Linux -->
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/JotaRandom/archlinux-artwork/blob/master/icons/archlinux-icon-crystal-128.svg" alt="linux" title="Arch Linux" width="45" height="45"/>
-  </a> 
-  <!-- .NET --> 
+  </a>
+  <!-- .NET -->
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" title=".NET framework" width="45" height="45"/>
-  </a> 
+  </a>
   <!-- Rails -->
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer">
     <img src="https://www.spaceo.ca/wp-content/uploads/2020/12/startup_log.svg" alt="rails" title="Rails framework" width="45" height="45"/>
@@ -152,15 +151,27 @@
   <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg" alt="RubyMine" title="RubyMine IDE" width="45" height="45"/>
   </a>
-  <!-- Atlassian Jira --> 
+  <!-- Atlassian Jira -->
   <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg" alt="Atlassian Jira" title="Atlassian Jira" width="45" height="45"/> 
+    <img src="https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg" alt="Atlassian Jira" title="Atlassian Jira" width="45" height="45"/>
   </a>
   <!-- UML 2.0 -->
   <a href="https://github.com/henrique-souza/uml_exercises" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML 2.0" title="UML" width="45" height="45"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML 2.0" title="UML" width="45" height="45"/>
   </a>
 </p>
+</details>
+
+
+
+<!-- Teste -->
+
+### Skills
+
+| Languages  | Softwares | Sctructures or Methodologies |
+| ------------- | ------------- | ------------ |
+| Intermediate to advanced proficiency with (C/C++)[https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=], Delphi, Java, Python, C#, SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | .NET, POO, TDD, Automated tests, Unit tests, Kanban, Scrum |
+| Beginner proficiency with SQLite, Dart, JavaScript, TypeScript, Ruby, Node.js, API Rest | Android Studio, Cloud9, VirtualBox, Vagrant | Ruby on Rails, Flutter, React, Angular, Horse |
 
 <!-- Estatísticas, etc -->
 | <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&count_private=true"/> |
