@@ -171,7 +171,7 @@
 | Languages  | Softwares | Sctructures or Methodologies |
 | ------------- | ------------- | ------------ |
 | Intermediate to advanced proficiency with [C/C++](https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=), Delphi, Java, Python, C#, SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | .NET, POO, TDD, Automated tests, Unit tests, Kanban, Scrum |
-| Beginner proficiency with SQLite, Dart, JavaScript, TypeScript, Ruby, Node.js, API Rest | Android Studio, Cloud9, VirtualBox, Vagrant | Ruby on Rails, Flutter, React, Angular, Horse |
+| Beginner proficiency with SQLite, Dart, JavaScript, TypeScript, Ruby, Node.js, API Rest | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | Ruby on Rails, Flutter, React, Angular, Horse |
 
 <!-- Estatísticas, etc -->
 | <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&count_private=true"/> |
