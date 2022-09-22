@@ -31,16 +31,13 @@
   <a href="https://pt.stackoverflow.com/users/291660/henrique-souza" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="291660" height="30" width="40"/>
   </a>
+  <!-- Instagram -->
   <a href="https://instagram.com/rique.hen" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rique.hen" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rique.hen" height="30" width="40" />
   </a>
   <!-- MS Learn -->
   <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/rique.hen/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="@rique.hen" height="40" width="40" />
   </a>
 </p>
 <!-- Go Rails https://gorails.com/users/64010 -->
