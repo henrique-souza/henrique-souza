@@ -50,7 +50,7 @@
 | **_Beginner_** proficiency with [JavaScript](https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=), [TypeScript](https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=), [Ruby](https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=), [Dart](https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=), Node.js, API Rest, SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails](https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=), [RSpec](https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD) Angular, React, Horse, Flutter |
 
 ### 📊 Statistics
-| <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&count_private=true"/> |
+| <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true&count_private=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&count_private=true"/> |
 | --- | --- |
 
 <!--
