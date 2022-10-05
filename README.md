@@ -42,6 +42,8 @@
 </p>
 <!-- Go Rails https://gorails.com/users/64010 -->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ### 🧙‍♂️ Skills
 
 | Languages  | Softwares | Sctructures or Methodologies |
@@ -52,9 +54,6 @@
 ### 📊 Statistics
 | <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true&count_private=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&count_private=true"/> |
 | --- | --- |
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 <!--
 <h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
