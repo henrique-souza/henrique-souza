@@ -51,11 +51,12 @@
 | **_Intermediate_** to **_advanced_** proficiency with [C/C++](https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=), [Delphi](https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=), [Java](https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=), [Python](https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=), [C#](https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=), SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [UML](https://github.com/henrique-souza/uml_exercises), OOP, TDD, Automated tests, Unit tests, Data sctructures, .NET, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
 | **_Beginner_** proficiency with [JavaScript](https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=), [TypeScript](https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=), [Ruby](https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=), [Dart](https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=), Node.js, API Rest, SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails](https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=), [RSpec](https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD), Angular, React, Horse, Flutter |
 
+<!--
 ### 📊 Statistics
 | <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true&count_private=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&count_private=true&hide=html,c%2B%2B,batchfile,shell,css,less"/> |
 | --- | --- |
 
-<!--
+
 <h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
 <h3 align="center">Always studying and learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-souza&label=Profile%20views&color=yellow&style=flat" alt="henrique-souza" /> </p>
