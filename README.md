@@ -53,7 +53,7 @@
 
 
 ### 📊 Statistics
-| <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true&count_private=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&count_private=true&hide=html,c%2B%2B,batchfile,shell,css,less"/> |
+| <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true&count_private=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=html,c%2B%2B,batchfile,shell,css,less"/> |
 | --- | --- |
 
 <!--
