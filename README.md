@@ -9,9 +9,9 @@
 ![Instagram_logo_2016 svg](https://user-images.githubusercontent.com/72718207/189485189-354ad816-d36b-43f6-b5d1-f8bc9bf8e911.png)
 
 -->
-![](https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square)
+![][def]
 
-- 🔧 I’m currently working on [TOTVS](https://www.totvs.com) as [**Software Development Intern**](https://www.linkedin.com/in/riquehen) with [Delphi 10.2](https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=)
+- 🔧 I’m currently working on [TOTVS][def15] as [**Software Development Intern**][def14] with [Delphi 10.2][def3]
 
 - 📚 I’m currently learning **Ruby** and **Ruby on Rails**, **Node.js**, **API Rest** and **.NET**
 
@@ -49,12 +49,12 @@
 
 | Languages  | Softwares | Sctructures or Methodologies |
 | ------------- | ------------- | ------------ |
-| **_Intermediate_** to **_advanced_** proficiency with [C/C++](https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=), [Delphi](https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=), [Java](https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=), [Python](https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=), [C#](https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=), SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [UML](https://github.com/henrique-souza/uml_exercises), OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET](https://github.com/henrique-souza/ContosoPizza), Kanban, Scrum, TFS, Azure DevOps, Jira Software |
-| **_Beginner_** proficiency with [JavaScript](https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=), [TypeScript](https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=), [Ruby](https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=), [Dart](https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=), Node.js, [API Rest](https://github.com/henrique-souza/ContosoPizza), SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails](https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=), [RSpec](https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD), Angular, React, Horse, Flutter |
+| **_Intermediate_** to **_advanced_** proficiency with [C/C++][def2], [Delphi][def3], [Java][def4], [Python][def5], [C#][def6], SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [UML][def7], OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET][def8], Kanban, Scrum, TFS, Azure DevOps, Jira Software |
+| **_Beginner_** proficiency with [JavaScript][def9], [TypeScript][def10], [Ruby][def11], [Dart][def12], Node.js, [API Rest][def8], SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][def11], [RSpec][def13], Angular, React, Horse, Flutter |
 
 
 ### 📊 Statistics
-| <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true&count_private=true"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=batchfile,C,C%2B%2B,Pascal,shell,html,css,less"/> |
+| <img height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true&count_private=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=batchfile,C,C%2B%2B,Pascal,shell,html,css,less"/> |
 | --- | --- |
 
 <!--
@@ -172,3 +172,20 @@
   </a>
 </p>
 </details> -->
+
+
+[def]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
+[def2]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
+[def3]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
+[def4]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=
+[def5]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=
+[def6]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=
+[def7]: https://github.com/henrique-souza/uml_exercises
+[def8]: https://github.com/henrique-souza/ContosoPizza
+[def9]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=
+[def10]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=
+[def11]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=
+[def12]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=
+[def13]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
+[def14]: https://www.linkedin.com/in/riquehen
+[def15]: https://www.totvs.com
