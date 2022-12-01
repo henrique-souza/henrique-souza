@@ -9,7 +9,8 @@
 ![Instagram_logo_2016 svg](https://user-images.githubusercontent.com/72718207/189485189-354ad816-d36b-43f6-b5d1-f8bc9bf8e911.png)
 
 -->
-![](https://komarev.com/ghpvc/?username=henrique-souza)
+![](https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square)
+
 - 🔧 I’m currently working on [TOTVS](https://www.totvs.com) as [**Software Development Intern**](https://www.linkedin.com/in/riquehen) with [Delphi 10.2](https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=)
 
 - 📚 I’m currently learning **Ruby** and **Ruby on Rails**, **Node.js**, **API Rest** and **.NET**
