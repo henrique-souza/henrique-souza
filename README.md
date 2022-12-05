@@ -9,16 +9,16 @@
 ![Instagram_logo_2016 svg](https://user-images.githubusercontent.com/72718207/189485189-354ad816-d36b-43f6-b5d1-f8bc9bf8e911.png)
 
 -->
-![][def]
+![][profile_views]
 
-- 🔧 I’m currently working on [TOTVS][def15] as [**Software Development Intern**][def14] with [Delphi 10.2][def3]
+- 🔧 I’m currently working on [TOTVS][link_totvs] as [**Software Development Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 
 - 📚 I’m currently learning **Ruby** and **Ruby on Rails**, **Node.js**, **API Rest** and **.NET**
 
 <!-- Imagem -->
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
 
-- 📫 How to reach me **[E-mail](mailto:h.s.s_henrique@hotmail.com)**
+- 📫 How to reach me **[E-mail][email_link]**
 
 - ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools**
 
@@ -43,18 +43,18 @@
 </p>
 <!-- Go Rails https://gorails.com/users/64010 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 ### 🧙‍♂️ Skills
 
 | Languages  | Softwares | Sctructures or Methodologies |
 | ------------- | ------------- | ------------ |
-| **_Intermediate_** to **_advanced_** proficiency with [C/C++][def2], [Delphi][def3], [Java][def4], [Python][def5], [C#][def6], SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [UML][def7], OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET][def8], Kanban, Scrum, TFS, Azure DevOps, Jira Software |
-| **_Beginner_** proficiency with [JavaScript][def9], [TypeScript][def10], [Ruby][def11], [Dart][def12], Node.js, [API Rest][def8], SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][def11], [RSpec][def13], Angular, React, Horse, Flutter |
+| **_Intermediate_** to **_advanced_** proficiency with [C/C++][cpp], [Delphi][pascal_repo], [Java][java], [Python][python], [C#][csharp], SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET][dotnet], Kanban, Scrum, TFS, Azure DevOps, Jira Software |
+| **_Beginner_** proficiency with [JavaScript][javascript], [TypeScript][typescript], [Ruby][RoR], [Dart][dart], Node.js, [API Rest][dotnet], SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], Angular, React, Horse, Flutter |
 
 
 ### 📊 Statistics
-| <img height="195" src="https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true&count_private=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=batchfile,C,C%2B%2B,Pascal,shell,html,css,less"/> |
+| [![Henrique GitHub stats][github_stats]](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs][top_langs]](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 <!--
@@ -174,18 +174,22 @@
 </details> -->
 
 
-[def]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
-[def2]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
-[def3]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
-[def4]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=
-[def5]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=
-[def6]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=
-[def7]: https://github.com/henrique-souza/uml_exercises
-[def8]: https://github.com/henrique-souza/ContosoPizza
-[def9]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=
-[def10]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=
-[def11]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=
-[def12]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=
-[def13]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
-[def14]: https://www.linkedin.com/in/riquehen
-[def15]: https://www.totvs.com
+[profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
+[cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
+[pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
+[java]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=
+[python]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=
+[csharp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=
+[uml]: https://github.com/henrique-souza/uml_exercises
+[dotnet]: https://github.com/henrique-souza/ContosoPizza
+[javascript]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=
+[typescript]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=
+[RoR]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=
+[dart]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=
+[rspec]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
+[linkedin]: https://www.linkedin.com/in/riquehen
+[link_totvs]: https://www.totvs.com
+[github_stats]: https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true&count_private=true
+[top_langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&count_private=true&langs_count=10&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less
+[spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
+[email_link]: mailto:h.s.s_henrique@hotmail.com
