@@ -189,7 +189,7 @@
 [rspec]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
 [linkedin]: https://www.linkedin.com/in/riquehen
 [link_totvs]: https://www.totvs.com
-[github_stats]: https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true&count_private=true
-[top_langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&count_private=true&langs_count=10&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less
+[github_stats]: https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true
+[top_langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [email_link]: mailto:h.s.s_henrique@hotmail.com
