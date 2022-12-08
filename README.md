@@ -52,12 +52,12 @@
 | **_Intermediate_** to **_advanced_** proficiency with [C/C++][cpp], [Delphi][pascal_repo], [Java][java], [Python][python], [C#][csharp], SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET][dotnet], Kanban, Scrum, TFS, Azure DevOps, Jira Software |
 | **_Beginner_** proficiency with [JavaScript][javascript], [TypeScript][typescript], [Ruby][RoR], [Dart][dart], Node.js, [API Rest][dotnet], SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], Angular, React, Horse, Flutter |
 
-
+<!--
 ### 📊 Statistics
 | [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
-<!--
+
 <h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
 <h3 align="center">Always studying and learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-souza&label=Profile%20views&color=yellow&style=flat" alt="henrique-souza" /> </p>
