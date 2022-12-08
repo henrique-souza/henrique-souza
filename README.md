@@ -1,17 +1,6 @@
-<!--
-![nodejs-seeklogo com](https://user-images.githubusercontent.com/72718207/173165044-03e11168-28ff-4fef-b6f3-bdcf6ef0e97d.svg)
-![Oracle_Corporation-Logo wine](https://user-images.githubusercontent.com/72718207/173165141-3efa2696-8ee0-4d05-bb92-1bf3996f4729.svg)
-![icons8-microsoft-sql-server-480](https://user-images.githubusercontent.com/72718207/173164942-3c9de351-410a-4f26-9df6-800ab7469157.svg)
-![download-icon-typescript+plain-1324760574122087083_0](https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg)
-![atlassian_jira_logo_icon_170511](https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg)
-![elixir_lang_logo_icon_169207](https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg)
-![rubymine-seeklogo com](https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg)
-![Instagram_logo_2016 svg](https://user-images.githubusercontent.com/72718207/189485189-354ad816-d36b-43f6-b5d1-f8bc9bf8e911.png)
-
--->
 ![][profile_views]
 
-- 🔧 I’m currently working on [TOTVS BACKOFFICE][link_totvs] as [**Software Development Intern**][linkedin] with [Delphi 10.2][pascal_repo]
+- 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Development Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 
 - 📚 I’m currently learning **Ruby** and **Ruby on Rails**, **Node.js**, **API Rest** and **.NET**
 
@@ -41,7 +30,6 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
   </a>
 </p>
-<!-- Go Rails https://gorails.com/users/64010 -->
 
 [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
@@ -56,123 +44,6 @@
 ### 📊 Statistics
 | [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less)](https://henrique-souza.vercel.app) |
 | --- | --- |
-
-<!--
-<h1 align="center">Hi 🤙<p></p> I'm Henrique</h1>
-<h3 align="center">Always studying and learning.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-souza&label=Profile%20views&color=yellow&style=flat" alt="henrique-souza" /> </p>
-
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-souza&theme=dark" alt="henrique-souza" /> </p>
-
-
-<!-- Backup
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=shell,HTML,CSS,cmake,C%2B%2B,less,typescript,dart,swift,kotlin,objective-c"/>
-
-
-<!--
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrique-souza&theme=dark_dimmed" alt="henrique-souza" /></a> </p>
-
-<!-- <details>
-<h3 align="left"> 📄 Languages</h3>
-<p>
-  <!-- C
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="45" height="45"/>
-  </a>
-  <!-- Delphi
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" alt="delphi" title="Delphi" width="45" height="45"/>
-  </a>
-    <!-- Java
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="45" height="45"/>
-  </a>
-   <!-- Python
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="45" height="45"/>
-  </a>
-  <!-- C#
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="45" height="45"/>
-  </a>
-  <!-- Ruby
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" title="Ruby" width="45" height="45"/>
-  </a>
-  <!-- JavaScript
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="45" height="45"/>
-  </a>
-  <!-- Typescript
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72718207/173623517-b4876ba9-bee2-4b12-bc76-50397998a2d2.svg" alt="typescript" title="Typescript" width="45" height="45"/>
-  </a>
-  <!-- Dart
-  <!-- <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="45" height="45"/>
-  </a>
-  <!-- Elixir
-  <!-- <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=elixir&sort=" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72718207/175756991-0de093d2-5215-467a-9abc-21bf130a2815.svg" alt="Elixir" title="Elixir" width="45" height="45"/>
-  </a>
-</p>
-<h3 align="left"> 🛠️ Tools</h3>
-<p>
-  <!-- Selenium
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium framework" width="45" height="45"/>
-  </a>
-  <!-- Azure
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="Azure DevOps" width="40" height="40"/>
-  </a>
-  <!-- Git
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="45" height="45"/>
-  </a>
-  <!-- Flutter
-  <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter framework" width="45" height="45"/>
-  </a>
-  <!-- MSSQL
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72718207/173164942-3c9de351-410a-4f26-9df6-800ab7469157.svg" alt="mssql" title="SQL Server" width="45" height="45"/>
-  </a>
-  <!-- Node.JS
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72718207/173165044-03e11168-28ff-4fef-b6f3-bdcf6ef0e97d.svg" alt="nodejs" title="Node.JS" width="45" height="45"/>
-  </a>
-  <!-- Oracle
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" title="Oracle SGBD" width="45" height="45"/>
-  </a>
-  <!-- Arch Linux
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/JotaRandom/archlinux-artwork/blob/master/icons/archlinux-icon-crystal-128.svg" alt="linux" title="Arch Linux" width="45" height="45"/>
-  </a>
-  <!-- .NET
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" title=".NET framework" width="45" height="45"/>
-  </a>
-  <!-- Rails
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer">
-    <img src="https://www.spaceo.ca/wp-content/uploads/2020/12/startup_log.svg" alt="rails" title="Rails framework" width="45" height="45"/>
-  </a>
-  <!-- RubyMine
-  <a href="https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72718207/176729270-3f4916ef-a3fe-4acc-a8ba-3683a7226516.svg" alt="RubyMine" title="RubyMine IDE" width="45" height="45"/>
-  </a>
-  <!-- Atlassian Jira
-  <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72718207/174226117-84d3df0f-4c5c-4561-b822-47fc9a3e8abb.svg" alt="Atlassian Jira" title="Atlassian Jira" width="45" height="45"/>
-  </a>
-  <!-- UML 2.0
-  <a href="https://github.com/henrique-souza/uml_exercises" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML 2.0" title="UML" width="45" height="45"/>
-  </a>
-</p>
-</details> -->
-
 
 [profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
 [cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
