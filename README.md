@@ -188,6 +188,6 @@
 [dart]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=
 [rspec]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
 [linkedin]: https://www.linkedin.com/in/riquehen
-[link_totvs]: https://www.totvs.com
+[link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [email_link]: mailto:h.s.s_henrique@hotmail.com
