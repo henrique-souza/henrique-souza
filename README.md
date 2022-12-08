@@ -54,7 +54,7 @@
 
 
 ### 📊 Statistics
-| [![Henrique GitHub stats][github_stats]](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs][top_langs]](https://github.com/anuraghazra/github-readme-stats) |
+| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 <!--
@@ -189,7 +189,5 @@
 [rspec]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
 [linkedin]: https://www.linkedin.com/in/riquehen
 [link_totvs]: https://www.totvs.com
-[github_stats]: https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true
-[top_langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [email_link]: mailto:h.s.s_henrique@hotmail.com
