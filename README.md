@@ -2,7 +2,7 @@
 
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Development Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 
-- 📚 I’m currently learning **Ruby** and **Ruby on Rails**, **Node.js**, **API Rest** and **.NET**
+- 📚 I’m currently learning **Ruby on Rails** and **Rust**
 
 <!-- Imagem -->
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
