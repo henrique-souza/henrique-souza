@@ -59,4 +59,4 @@
 [link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [email_link]: mailto:h.s.s_henrique@hotmail.com
-[arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md#instala%C3%A7%C3%A3o-de-ambiente-de-desenvolvimento
+[arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
