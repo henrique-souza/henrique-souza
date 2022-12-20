@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools**
 
+- 🎮 Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
+
 <h3 align="left"> 💬 Know about and connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/riquehen" target="blank">
@@ -35,10 +37,10 @@
 | **_Intermediate_** to **_advanced_** proficiency with [C/C++][cpp], [Delphi][pascal_repo], [Java][java], [Python][python], [C#][csharp], SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET][dotnet], Kanban, Scrum, TFS, Azure DevOps, Jira Software |
 | **_Beginner_** proficiency with [JavaScript][javascript], [TypeScript][typescript], [Ruby][RoR], [Dart][dart], Node.js, [API Rest][dotnet], SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], Bootstrap, Angular, React, Horse, Flutter |
 
-
+<!--
 ### 📊 Statistics
 | [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=8&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less)](https://henrique-souza.vercel.app) |
-| --- | --- |
+| --- | --- | -->
 
 [profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
 [cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
@@ -57,3 +59,4 @@
 [link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [email_link]: mailto:h.s.s_henrique@hotmail.com
+[arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md#instala%C3%A7%C3%A3o-de-ambiente-de-desenvolvimento
