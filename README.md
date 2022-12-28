@@ -38,7 +38,7 @@
 | **_Beginner_** proficiency with [JavaScript][javascript], [TypeScript][typescript], [Ruby][RoR], [Dart][dart], Node.js, [API Rest][dotnet], SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], Bootstrap, Angular, React, Horse, Flutter |
 
 ### 📊 Statistics
-| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=8&hide=C%2B%2B,Batchfile,HTML,Shell,CSS,less)](https://henrique-souza.vercel.app) |
+| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C,Batchfile,HTML,Shell,CSS,less)](https://henrique-souza.vercel.app) |
 | --- | --- |
 
 [profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
