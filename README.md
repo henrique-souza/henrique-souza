@@ -2,6 +2,8 @@
 
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Development Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 
+<img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
+
 - 📚 I’m currently learning **Ruby on Rails** and **Rust**
 
 - 📫 How to reach me **[E-mail][email_link]**
@@ -9,6 +11,13 @@
 - ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools**
 
 - 🎮 Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
+
+### 🧙‍♂️ Skills
+
+| Level| Languages  | Softwares | Sctructures or Methodologies |
+| :-: | :- | :-: | :- |
+| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], [Python][python], [C#][csharp], SQL Server, Oracle | RubyMine, LunarVim, Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [Ruby on Rails][RoR], [RSpec][rspec], [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET][dotnet], Kanban, Scrum, TFS, Azure DevOps, Jira Software |
+| **_Beginner_** | [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, [API Rest][dotnet], SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Angular, React, Horse, Flutter |
 
 <!-- 
 ![][profile_views]
@@ -31,13 +40,6 @@
 
 [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
-### 🧙‍♂️ Skills
-
-| Languages  | Softwares | Sctructures or Methodologies |
-| ------------- | ------------- | ------------ |
-| **_Intermediate_** to **_advanced_** proficiency with [C/C++][cpp], [Delphi][pascal_repo], [Java][java], [Python][python], [C#][csharp], SQL Server, Oracle | Delphi 10.2, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio 2022, GitHub, Git Bash  | [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET][dotnet], Kanban, Scrum, TFS, Azure DevOps, Jira Software |
-| **_Beginner_** proficiency with [JavaScript][javascript], [TypeScript][typescript], [Ruby][RoR], [Dart][dart], Node.js, [API Rest][dotnet], SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], Bootstrap, Angular, React, Horse, Flutter |
-
 ### 📊 Statistics
 | [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C,Batchfile,HTML,Shell,CSS,less)](https://henrique-souza.vercel.app) |
 | --- | --- | -->
@@ -47,3 +49,15 @@
 [link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
 [email_link]: mailto:h.s.s_henrique@hotmail.com
 [arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
+[cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
+[pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
+[java]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=
+[python]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=
+[csharp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=
+[uml]: https://github.com/henrique-souza/uml_exercises
+[dotnet]: https://github.com/henrique-souza/ContosoPizza
+[javascript]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=
+[typescript]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=
+[RoR]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=
+[dart]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=
+[rspec]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
