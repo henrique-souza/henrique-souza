@@ -1,10 +1,8 @@
-<!-- ![][profile_views] -->
+# Hi, there 🤙
 
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Development Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 
 - 📚 I’m currently learning **Ruby on Rails** and **Rust**
-
-<img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
 
 - 📫 How to reach me **[E-mail][email_link]**
 
@@ -12,7 +10,10 @@
 
 - 🎮 Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
 
-<!-- <h3 align="left"> 💬 Know about and connect with me:</h3>
+<!-- 
+![][profile_views]
+
+<h3 align="left"> 💬 Know about and connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/riquehen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquehen" height="30" width="40"/>
@@ -41,21 +42,8 @@
 | [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C,Batchfile,HTML,Shell,CSS,less)](https://henrique-souza.vercel.app) |
 | --- | --- | -->
 
-[profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
-[cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
 [pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
-[java]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=
-[python]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=
-[csharp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=
-[uml]: https://github.com/henrique-souza/uml_exercises
-[dotnet]: https://github.com/henrique-souza/ContosoPizza
-[javascript]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=
-[typescript]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=typescript&sort=
-[RoR]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=
-[dart]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=
-[rspec]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
 [linkedin]: https://www.linkedin.com/in/riquehen
 [link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
-[spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [email_link]: mailto:h.s.s_henrique@hotmail.com
 [arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
