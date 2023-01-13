@@ -1,4 +1,4 @@
-![][profile_views]
+<!-- ![][profile_views] -->
 
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Development Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 
@@ -12,7 +12,7 @@
 
 - 🎮 Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
 
-<h3 align="left"> 💬 Know about and connect with me:</h3>
+<!-- <h3 align="left"> 💬 Know about and connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/riquehen" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquehen" height="30" width="40"/>
@@ -39,7 +39,7 @@
 
 ### 📊 Statistics
 | [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=dark&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=dark&layout=compact&langs_count=10&hide=C,Batchfile,HTML,Shell,CSS,less)](https://henrique-souza.vercel.app) |
-| --- | --- |
+| --- | --- | -->
 
 [profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
 [cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
