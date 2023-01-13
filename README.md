@@ -12,7 +12,7 @@
 
 - 🎮 Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
 
-### 🧙‍♂️ Skills
+## 🧙‍♂️ Skills
 
 | Level| Languages  | Softwares | Sctructures or Methodologies |
 | :-: | :- | :-: | :- |
