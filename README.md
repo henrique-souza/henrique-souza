@@ -1,4 +1,4 @@
-# Hi, there 🤙
+# Hi 🤙
 
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Development Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 
@@ -16,10 +16,10 @@
 
 | Level| Languages  | Softwares | Sctructures, Frameworks or Methodologies |
 | :-: | :- | :-: | :- |
-| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], [Python][python], [C#][csharp], SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [Ruby on Rails][RoR], [RSpec][rspec], [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, [.NET][dotnet], Kanban, Scrum, TFS, Azure DevOps, Jira Software |
-| **_Beginner_** | [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, [API Rest][dotnet], SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Angular, React, Horse, Flutter |
+| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], [Python][python], [C#][csharp], SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [Ruby on Rails][RoR], [RSpec][rspec], [.NET][dotnet], [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
+| **_Beginner_** | [Rust][rust], [API Rest][dotnet], [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Angular, React, Horse, Flutter |
 
-<!-- 
+<!--
 ![][profile_views]
 
 <h3 align="left"> 💬 Know about and connect with me:</h3>
@@ -61,3 +61,4 @@
 [RoR]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=
 [dart]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=
 [rspec]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
+[rust]: https://github.com/henrique-souza/rust_exercises
