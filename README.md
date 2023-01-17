@@ -16,7 +16,7 @@
 
 | Level| Languages  | Softwares | Sctructures, Frameworks or Methodologies |
 | :-: | :- | :-: | :- |
-| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], [Python][python], [C#][csharp], SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [Ruby on Rails][RoR], [RSpec][rspec], [.NET][dotnet], [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
+| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [Python][python], [C#][csharp], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [Ruby on Rails][RoR], [RSpec][rspec], [.NET][dotnet], [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
 | **_Beginner_** | [Rust][rust], [API Rest][dotnet], [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Angular, React, Horse, Flutter |
 
 <!--
