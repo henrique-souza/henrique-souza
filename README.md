@@ -12,20 +12,20 @@
 
 - 🛠️ Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
 
-## 🧙‍♂️ Skills
-
-| Level| Languages  | Softwares | Sctructures, Frameworks or Methodologies |
-| :-: | :- | :-: | :- |
-| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [Python][python], [C#][csharp], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [Ruby on Rails][RoR], [RSpec][rspec], [.NET][dotnet], [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
-| **_Beginner_** | [Rust][rust], [API Rest][dotnet], [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Angular, React, Horse, Flutter |
-
-### 📊 Statistics
+## 📊 Statistics
 
 | [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=6&hide=HTML)](https://henrique-souza.vercel.app) |
 | --- | --- |
 
 <!--
 ![][profile_views]
+
+## 🧙‍♂️ Skills
+
+| Level| Languages  | Softwares | Sctructures, Frameworks or Methodologies |
+| :-: | :- | :-: | :- |
+| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [Python][python], [C#][csharp], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [Ruby on Rails][RoR], [RSpec][rspec], [.NET][dotnet], [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
+| **_Beginner_** | [Rust][rust], [API Rest][dotnet], [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Angular, React, Horse, Flutter |
 
 <h3 align="left"> 💬 Know about and connect with me:</h3>
 <p>
@@ -45,15 +45,8 @@
 
 [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
--->
 
-[pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
-[linkedin]: https://www.linkedin.com/in/riquehen
-[link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
-[email_link]: mailto:h.s.s_henrique@hotmail.com
-[arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
 [cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
-[pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
 [java]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=
 [python]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=python&sort=
 [csharp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=
@@ -65,3 +58,11 @@
 [dart]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=dart&sort=
 [rspec]: https://github.com/henrique-souza/ruby_and_rails_exercises/tree/main/TDD
 [rust]: https://github.com/henrique-souza/rust_exercises
+
+-->
+
+[pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
+[linkedin]: https://www.linkedin.com/in/riquehen
+[link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
+[email_link]: mailto:h.s.s_henrique@hotmail.com
+[arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
