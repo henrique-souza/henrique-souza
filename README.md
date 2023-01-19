@@ -21,7 +21,7 @@
 
 ### 📊 Statistics
 
-| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=C,Batchfile,HTML,Shell,CSS,less)](https://henrique-souza.vercel.app) |
+| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10)](https://henrique-souza.vercel.app) |
 | --- | --- |
 
 <!--
