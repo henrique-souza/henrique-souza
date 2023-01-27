@@ -17,6 +17,8 @@
 | [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=6&hide=HTML)](https://henrique-souza.vercel.app) |
 | --- | --- |
 
+[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 ![][profile_views]
 
@@ -43,7 +45,7 @@
   </a>
 </p>
 
-[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
+
 
 
 [cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
@@ -66,3 +68,4 @@
 [link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
 [email_link]: mailto:h.s.s_henrique@hotmail.com
 [arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
+[spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
