@@ -4,11 +4,11 @@
 
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
 
-- 📔 I’m currently learning **Ruby on Rails** and **Rust**
+- 📔 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **[E-mail][email_link]**
 
-- ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools**
+<!-- - ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools** -->
 
 - 🛠️ Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
 
