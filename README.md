@@ -14,10 +14,7 @@
 
 ## 📊 Statistics
 
-| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=6&hide=HTML,Pascal)](https://henrique-souza.vercel.app) |
-| --- | --- |
-
-[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=6&hide=HTML,Pascal)](https://henrique-souza.vercel.app) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 ![][profile_views]
@@ -45,6 +42,8 @@
   </a>
 </p>
 
+| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) |  |
+| --- | --- |
 
 
 
