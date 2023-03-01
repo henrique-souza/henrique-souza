@@ -14,7 +14,7 @@
 
 ## 📊 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=6&hide=HTML,Pascal)](https://henrique-souza.vercel.app) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile)](https://henrique-souza.vercel.app) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 ![][profile_views]
