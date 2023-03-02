@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **[E-mail][email_link]**
 
+- 📄 My **[resume in real time][curriculum_vitae]**
+
 <!-- - ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools** -->
 
 - 🛠️ Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
@@ -68,3 +70,4 @@
 [email_link]: mailto:h.s.s_henrique@hotmail.com
 [arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
+[curriculum_vitae]: https://docs.google.com/document/d/e/2PACX-1vQwTfvr17pmzpDUlncDBl3Y-5NvceCN9SvftTEb608lwApWDDTPmWRVayzTiy4QD_iHO5AvfvGQTSHw/pub
