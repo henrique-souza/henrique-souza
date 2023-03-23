@@ -6,7 +6,7 @@
 
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
 
-- 📔 I’m currently learning **Ruby on Rails** and Mobile with **Kotlin**
+- 📔 I’m currently learning **Ruby on Rails** and **Kotlin**
 
 - 📫 How to reach me **[E-mail][email_link]**
 
