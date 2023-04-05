@@ -14,17 +14,6 @@
 
 - 🛠️ Feel free to use the same development environment as me: [Arch Linux + WSL 2][arch_wsl2] (not translated yet)
 
-## 💬 Socials
-
-<p>
-  <a href="https://linkedin.com/in/riquehen" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquehen" height="30" width="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
-  </a>
-</p>
-
 ## 🧙‍♂️ Skills
 
 | Level| Languages  | Softwares | Sctructures, Frameworks or Methodologies |
@@ -37,6 +26,17 @@
 <!--
 
 - ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools**
+
+## 💬 Socials
+
+<p>
+  <a href="https://linkedin.com/in/riquehen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquehen" height="30" width="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/pt-br/users/henrique-souza-8745/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="rique.hen" title="Microsoft Learn" height="30" width="40" />
+  </a>
+</p>
 
 ## 📊 Statistics
 
