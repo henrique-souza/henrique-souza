@@ -18,8 +18,8 @@
 
 | Level| Languages  | Softwares | Sctructures, Frameworks or Methodologies |
 | :-: | :- | :-: | :- |
-| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [Python][python], [C#][csharp], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [.NET][dotnet], [UML][uml], OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
-| **_Beginner_** | [Rust][rust], [API Rest][dotnet], [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], Tailwind, Bootstrap, Angular, React, Horse, Flutter |
+| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [Python][python], [C#][csharp], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], SQL Server, Oracle | Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [.NET][dotnet], [UML][uml], OOP, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
+| **_Beginner_** | Kotlin, [Rust][rust], [API Rest][dotnet], [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], [TDD][rspec], Tailwind, Bootstrap, Angular, React, Horse, Flutter |
 
 [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
