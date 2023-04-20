@@ -69,7 +69,7 @@
 [email_link]: mailto:h.s.s_henrique@hotmail.com
 [arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
-[curriculum_vitae]: https://docs.google.com/document/d/e/2PACX-1vQwTfvr17pmzpDUlncDBl3Y-5NvceCN9SvftTEb608lwApWDDTPmWRVayzTiy4QD_iHO5AvfvGQTSHw/pub
+[curriculum_vitae]: https://docs.google.com/document/d/e/2PACX-1vQioGF1OUZFdDUlMTwfi-8kNZrVQcpM5KRw0tQf3H76__85fi7vJclXpjF6kWt4-f06M3d9SNvR-KlJ/pub
 [profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
 [cpp]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c&sort=
 [java]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=java&sort=
