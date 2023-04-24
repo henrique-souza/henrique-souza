@@ -10,7 +10,7 @@
 
 - 📄 My **[resume in real time][curriculum_vitae]**
 
-- 🛠️ My dev. env.: [Arch Linux + WSL 2][arch_wsl2]
+- 🛠️ My dev. env. is [Arch Linux + WSL 2][arch_wsl2]
 
 ## 💬 Socials
 
@@ -20,23 +20,8 @@
 
 ## 📊 Statistics
 
-| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=5)](https://henrique-souza.vercel.app) |
+| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=6)](https://henrique-souza.vercel.app) |
 | --- | --- |
-
-<!--
-
-- ⚡ Fun fact **I like specifically and just Dark++ theme in all my tools**
-
- ![]() [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="30" />][hacker_rank]
-
-## 🧙‍♂️ Skills
-
-| Level| Languages  | Softwares | Sctructures, Frameworks or Methodologies |
-| :-: | :- | :-: | :- |
-| **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [Python][python], [C#][csharp], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], SQL Server, Oracle | Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [.NET][dotnet], [UML][uml], OOP, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
-| **_Beginner_** | Kotlin, [Rust][rust], [API Rest][dotnet], [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], [TDD][rspec], Tailwind, Bootstrap, Angular, React, Horse, Flutter |
-
--->
 
 [pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
 [linkedin]: https://www.linkedin.com/in/riquehen
