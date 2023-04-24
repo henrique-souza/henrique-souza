@@ -1,7 +1,5 @@
 # Hi 🤙
 
-![Profile views][profile_views]
-
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Developer Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
@@ -17,6 +15,8 @@
 ## 💬 Socials
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />][linkedin] ![]() [<img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="30" />][ms_learn] ![]() [<img src="https://w1.codingame.com/work/wp-content/uploads/2020/12/gorails-logo.png" width="30"/>][go_rails]
+
+[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 ## 📊 Statistics
 
@@ -36,8 +36,6 @@
 | **_Intermediate_** to **_advanced_** |  [Ruby][RoR], [Python][python], [C#][csharp], [C/C++][cpp], [Delphi][pascal_repo], [Java][java], SQL Server, Oracle | Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | [.NET][dotnet], [UML][uml], OOP, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
 | **_Beginner_** | Kotlin, [Rust][rust], [API Rest][dotnet], [JavaScript][javascript], [TypeScript][typescript], [Dart][dart], Node.js, SQLite | RubyMine, LunarVim, Android Studio, Cloud9, VirtualBox, Vagrant | [Ruby on Rails][RoR], [RSpec][rspec], [TDD][rspec], Tailwind, Bootstrap, Angular, React, Horse, Flutter |
 
-[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
-
 -->
 
 [pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
@@ -50,3 +48,4 @@
 [arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
 [curriculum_vitae]: https://docs.google.com/document/d/e/2PACX-1vQioGF1OUZFdDUlMTwfi-8kNZrVQcpM5KRw0tQf3H76__85fi7vJclXpjF6kWt4-f06M3d9SNvR-KlJ/pub
 [profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
+[spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
