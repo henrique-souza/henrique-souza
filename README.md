@@ -20,7 +20,7 @@
 
 ## 📊 Statistics
 
-| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile)](https://henrique-souza.vercel.app) |
+| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=5)](https://henrique-souza.vercel.app) |
 | --- | --- |
 
 <!--
@@ -44,7 +44,7 @@
 [go_rails]: https://gorails.com/users/64010
 [hacker_rank]: https://www.hackerrank.com/h_s_s_henrique
 [link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
-[email_link]: mailto:h.s.s_henrique@hotmail.com
+[email_link]: mailto:hsouza.dev@outlook.com.br
 [arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
 [curriculum_vitae]: https://docs.google.com/document/d/e/2PACX-1vQioGF1OUZFdDUlMTwfi-8kNZrVQcpM5KRw0tQf3H76__85fi7vJclXpjF6kWt4-f06M3d9SNvR-KlJ/pub
 [profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
