@@ -2,7 +2,6 @@
 
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Developer Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 - 📔 I’m currently learning **Ruby on Rails**
-- 📫 How to reach me **[E-mail][email_link]**
 - 📄 My **[resume in real time][curriculum_vitae]**
 - 🛠️ My dev. env. is [Arch Linux + WSL 2][arch_wsl2]
 
