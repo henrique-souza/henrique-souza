@@ -1,27 +1,21 @@
 # Hi 🤙
 
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Developer Intern**][linkedin] with [Delphi 10.2][pascal_repo]
+- 📔 I’m currently learning **Ruby on Rails**
+- 📫 How to reach me **[E-mail][email_link]**
+- 📄 My **[resume in real time][curriculum_vitae]**
+- 🛠️ My dev. env. is [Arch Linux + WSL 2][arch_wsl2]
 
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
 
-- 📔 I’m currently learning **Ruby on Rails**
-
-- 📫 How to reach me **[E-mail][email_link]**
-
-- 📄 My **[resume in real time][curriculum_vitae]**
-
-- 🛠️ My dev. env. is [Arch Linux + WSL 2][arch_wsl2]
-
 ## 💬 Socials
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />][linkedin] ![]() [<img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="30" />][ms_learn] ![]() [<img src="https://w1.codingame.com/work/wp-content/uploads/2020/12/gorails-logo.png" width="30"/>][go_rails]
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />][linkedin] ![]() [<img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="30" />][ms_learn] ![]() [<img src="https://w1.codingame.com/work/wp-content/uploads/2020/12/gorails-logo.png" width="30"/>][go_rails] [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 ## 📊 Statistics
 
-| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)](https://henrique-souza.vercel.app) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=6)](https://henrique-souza.vercel.app) |
+| [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-souza&theme=ayu-mirage&show_icons=true&hide_title=true)][linkedin] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=6)][linkedin] |
 | --- | --- |
-
-[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 [pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
 [linkedin]: https://www.linkedin.com/in/riquehen
