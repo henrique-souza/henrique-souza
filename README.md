@@ -7,7 +7,7 @@
 
 ## 💬 Socials
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />][linkedin] ![]() [<img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="30" />][ms_learn] ![]() [<img src="https://w1.codingame.com/work/wp-content/uploads/2020/12/gorails-logo.png" width="30"/>][go_rails] [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
+[<img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60" />][ms_learn] ![]() [<img src="https://w1.codingame.com/work/wp-content/uploads/2020/12/gorails-logo.png" width="60"/>][go_rails] [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 ## 📊 Statistics
 
