@@ -3,7 +3,6 @@
 - 🔧 I’m currently working on [TOTVS **Backoffice**][link_totvs] as [**Back-end Developer Intern**][linkedin] with [Delphi 10.2][pascal_repo]
 - 📔 I’m currently learning **Ruby on Rails**
 - 📄 My **[resume in real time][curriculum_vitae]**
-- 🛠️ My dev. env. is [Arch Linux + WSL 2][arch_wsl2]
 
 <img align="right" height="150" src="https://i.ibb.co/PhDHQB5/Rodriguez-Typing-At-Desk.gif"/>
 
@@ -23,7 +22,6 @@
 [hacker_rank]: https://www.hackerrank.com/h_s_s_henrique
 [link_totvs]: https://www.totvs.com/hospitalidade/produtos/?nowprocket=1
 [email_link]: mailto:hsouza.dev@outlook.com.br
-[arch_wsl2]: https://github.com/henrique-souza/development_environment/blob/main/README.md
 [curriculum_vitae]: https://docs.google.com/document/d/e/2PACX-1vQioGF1OUZFdDUlMTwfi-8kNZrVQcpM5KRw0tQf3H76__85fi7vJclXpjF6kWt4-f06M3d9SNvR-KlJ/pub
 [profile_views]: https://komarev.com/ghpvc/?username=henrique-souza&color=lightgrey&style=flat-square
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
