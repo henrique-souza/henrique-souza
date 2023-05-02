@@ -7,7 +7,7 @@
 
 ## 💬 Socials
 
-[<img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60" />][ms_learn] ![]() [<img src="https://w1.codingame.com/work/wp-content/uploads/2020/12/gorails-logo.png" width="60"/>][go_rails] [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile)](https://github.com/henrique-souza?tab=repositories)
+[<img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="40" />][ms_learn] ![]() [<img src="https://w1.codingame.com/work/wp-content/uploads/2020/12/gorails-logo.png" width="40"/>][go_rails] [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile)](https://github.com/henrique-souza?tab=repositories)
 
 [pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
 [linkedin]: https://www.linkedin.com/in/riquehen
