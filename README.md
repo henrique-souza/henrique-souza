@@ -6,7 +6,7 @@
 
 [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=8&hide=HTML,Batchfile)](https://github.com/henrique-souza?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile)](https://github.com/henrique-souza?tab=repositories)
 
 [pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
 [linkedin]: https://www.linkedin.com/in/riquehen
