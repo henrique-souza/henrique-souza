@@ -4,7 +4,7 @@
 
 - 📔 I’m currently learning [Ruby on Rails][ruby_projects] and [Delphi][delphi_projects]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,c%2B%2B,Batchfile,CSS,Typescript,Less)](https://github.com/henrique-souza?tab=repositories) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile,CSS,Typescript,Less,Cmake,Swift)](https://github.com/henrique-souza?tab=repositories) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 [pascal_repo]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=pascal&sort=
 [linkedin]: https://www.linkedin.com/in/riquehen
