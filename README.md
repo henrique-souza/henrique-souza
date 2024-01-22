@@ -2,7 +2,7 @@
 
 - 📔 I’m currently learning [Ruby on Rails][ruby_projects] and [C#][csharp_projects]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile,CSS,Less,Cmake,C)](https://github.com/henrique-souza?tab=repositories) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile,CSS,Less,Cmake,C,swift)](https://github.com/henrique-souza?tab=repositories) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [ruby_projects]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=
