@@ -1,5 +1,5 @@
 # Hi 🤙
-
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/h_s_s_henrique)
 - 📔 I’m currently learning [Ruby on Rails][ruby_projects] and [C#][csharp_projects]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile,CSS,Less,Cmake,C,swift)](https://github.com/henrique-souza?tab=repositories) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
