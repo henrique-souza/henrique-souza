@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 ## 🧙‍♂️ Skills
 
-| Level| Languages  | Softwares | Sctructures, Frameworks or Methodologies |
+| Level | Languages  | Softwares | Sctructures/Frameworks/Methodologies |
 | :-: | :- | :-: | :- |
-| **_Intermediate_** to **_advanced_** |  Ruby, Python, C#, C/C++, Delphi, Java, SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git | Ruby on Rails, RSpec, .NET, UML, OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
-| **_Beginner_** | Rust, API Rest, JavaScript, TypeScript, Dart, Node.js, SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Angular, React, Horse, Flutter |
--->
+| **_Intermediate_** to **_advanced_** |  Ruby, Python, C#, C/C++, Delphi, Java, SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git, DBeaver | Ruby on Rails, RSpec, .NET, Entity Framework, UML, OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
+| **_Beginner_** | Rust, API Rest, JavaScript, TypeScript, Dart, Node.js, SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Tailwind, Angular, React, Horse (Delphi Framework), Flutter |
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile,CSS,Less,Cmake,c%2B%2B,swift)](https://github.com/henrique-souza?tab=repositories) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
