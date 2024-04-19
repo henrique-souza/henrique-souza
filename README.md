@@ -1,4 +1,4 @@
-# Hi 🤙
+### Hi there 🤙
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/h_s_s_henrique)
 - 📔 I’m currently learning [Ruby on Rails][ruby_projects] and [C#][csharp_projects]
 <!--
