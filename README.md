@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10&hide=HTML,Batchfile,CSS,Less,Cmake,c%2B%2B,swift)](https://github.com/henrique-souza?tab=repositories) [![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
-[spotify]: https://spotify-github-profile.vercel.app/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
+[spotify]: https://spotify-github-profile.kittinanx.com/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [ruby_projects]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=ruby&sort=
 [delphi_projects]: https://github.com/henrique-souza/delphi_exercises
 [csharp_projects]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=c%23&sort=
