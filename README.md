@@ -3,8 +3,6 @@
 - 📔 I’m currently learning [React.js][react_projects] and [Next.js][react_projects]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10)](https://github.com/henrique-souza?tab=repositories)
-
-[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 <!--
 ### Hi there 👋
 
@@ -27,6 +25,8 @@ Here are some ideas to get you started:
 | :-: | :- | :-: | :- |
 | **_Intermediate_** to **_advanced_** |  Ruby, Python, C#, C/C++, Delphi, Java, SQL Server, Oracle | RubyMine, LunarVim, Delphi, Oracle Developer, SQL Server Management Studio, VS Code, Appium, WinAppDriver, Visual Studio, GitHub, Git, DBeaver | Ruby on Rails, RSpec, .NET, Entity Framework, UML, OOP, TDD, Automated tests, Unit tests, Data sctructures, Kanban, Scrum, TFS, Azure DevOps, Jira Software |
 | **_Beginner_** | Rust, API Rest, JavaScript, TypeScript, Dart, Node.js, SQLite | Android Studio, Cloud9, VirtualBox, Vagrant | Bootstrap, Tailwind, Angular, React.js, Next.js, Horse (Delphi Framework), Flutter |
+
+[![spotify-github-profile][spotify]](https://github.com/kittinan/spotify-github-profile)
 
 [spotify]: https://spotify-github-profile.kittinanx.com/api/view?uid=22aaqwnwsca3lv62n6lido44i&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=000000&bar_color_cover=true
 [react_projects]: https://github.com/henrique-souza?tab=repositories&q=&type=&language=javascript&sort=
