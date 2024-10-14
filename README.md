@@ -1,6 +1,6 @@
 ### Hi there 🤙
 - 🤓 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/h_s_s_henrique)
-- 📔 I’m currently learning [React.js][react_projects] and [Next.js][react_projects]
+- 📔 I’m currently learning [Delphi][delphi_projects]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-souza&theme=ayu-mirage&layout=compact&langs_count=10)](https://github.com/henrique-souza?tab=repositories)
 <!--
